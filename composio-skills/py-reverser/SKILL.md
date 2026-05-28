@@ -1,8 +1,7 @@
 ---
 name: Py-Reverser
-description: Specialized skill for reverse engineering, de-obfuscating, and restoring logic from compiled/obfuscated Python code (.pyc, PyArmor, dynamic code). Maximizes reasoning (IQ) and strictly minimizes token output.
-author: YourName
-tags: [python, reverse-engineering, deobfuscation, security, code-compression]
+description: Specialized skill for reverse engineering Python code.
+tags: [python, reverse-engineering]
 ---
 
 # Python Reverse Engineer & De-Obfuscator
